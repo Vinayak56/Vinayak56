@@ -1,73 +1,115 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<div align="center">
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vinayak</h1>
-<h3 align="center">I am a Computer Science undergrad with strong technical and interpersonal skills.</h3>
-<h4>|| Data Scientist || Machine Learning Enthusiast || Frontend Web Developer || Data structures & Algorithms (C++)</h4>
+# Hi, I'm Vinayak Unde 👋
 
+### Software engineering · Cloud infrastructure · Applied AI
 
-## 🙋‍♂️ About Me
+**MS Computer Science @ USC · Former DevOps & Cloud Engineer 2 @ ConnectWise**
 
-- 🔭 I’m currently working on **Deep Learning.**
+I build software and infrastructure that help teams ship faster—and turn machine learning ideas into usable applications.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+[LinkedIn](https://www.linkedin.com/in/vinayakunde/) · [Email](mailto:vinayakunde09@gmail.com) · [GitHub](https://github.com/Vinayak56)
 
-- 👨🏽‍💻 Intern at TCR Innovation at the position of **Deep Learning Intern**.
+</div>
 
-- 👨🏽‍💻 Ex Intern at Education 4 ol at the position of **Web Developer Intern**.
-  
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+---
 
-- 👨🏻‍💻 I do competitive programming and love ML, DL and DS.
+## About me
 
-- 📫 How to reach me **vinayakunde962001@gmail.com**
+I'm a Computer Science master's student at the **University of Southern California**, with three years of professional experience in AWS infrastructure, microservices, and developer automation at **ConnectWise**.
 
-## 🚀 Languages and Tools:
+My work spans backend services, infrastructure as code, deployment pipelines, and applied machine learning. I enjoy solving problems where better engineering gives people time back: faster releases, repeatable environments, and useful tools.
 
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
-    <a href="https://jupyter.org/" ><img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/></a>
-    <a href="https://www.tensorflow.org/"><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></a>
-    <a></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.php.net/"><img src="https://img.icons8.com/officel/50/000000/php-logo.png"/></a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://www.java.com/en/"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
-</p>
+- **Based in:** Los Angeles, California
+- **Studying:** MS in Computer Science, USC · August 2026–May 2028 (expected)
+- **Academic focus:** Analysis of Algorithms; Information Retrieval and Web Search Engines
+- **Interests:** Backend engineering, cloud platforms, developer tooling, search, and applied AI
 
-<br/>
+## Engineering impact
 
-<p align="center">
-    <a href="https://github.com/Vinayak56/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vinayak Unde streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayak56&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+At ConnectWise, I worked on the infrastructure and automation behind production microservices.
 
-## 📊 My Github Stats
+| Scope | Result |
+| :--- | :--- |
+| GitLab CI/CD for **80+ microservices** | **70% faster deployments** |
+| Self-service microservice platform | **120 engineering hours saved per month** and **25% lower cloud provisioning costs** |
+| AWS architecture and automation | **$15,000+ less annual infrastructure overhead** |
+| Production infrastructure across **3 active AWS regions** | Enabled **zero-downtime deployments** |
+| Centralized API mock server | **95% less QA dependency on live environments** |
 
-  <br/>
-    <a href="https://github.com/Vinayak56/github-readme-stats"><img alt="Vinayak Unde Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vinayak56&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Vinayak56/github-readme-stats"><img alt="Vinayak Unde Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak56&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<details>
+<summary><b>Experience</b></summary>
 
+### ConnectWise · DevOps & Cloud Engineer 2
+**June 2023–July 2026 · Mumbai, India**
 
-<br/>
-<br/>
+- Designed and managed AWS infrastructure, containerized services, monitoring, security, and deployment automation.
+- Built a self-service platform for generating microservice codebases and infrastructure templates.
+- Created GitLab CI/CD pipelines for testing, artifact management, and production deployments.
+- Developed a centralized API mock server with Karate, Docker, and AWS.
 
-<a href="https://github.com/Vinayak56/github-readme-activity-graph"><img alt="Vinayak Unde Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vinayak56&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+### ConnectWise · Software Engineer Intern
+**June–August 2022 · Mumbai, India**
 
-<br/>
-<br/>
+- Built an on-demand testing environment platform using Node.js and AWS.
+- Developed backend services for authentication, configuration, and artifact management, saving **720+ engineering hours per month** across teams.
 
-## Connect with me:
-<p align="left">
+</details>
 
-<a href = "https://in.linkedin.com/in/vinayak-unde-37360415a"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+## Selected projects
 
-</p>
+### 🧠 Augmented Humanoid
+**LSTM · NLP · Unity · Text-to-speech**
 
+A research prototype connecting language-based emotional-state assessment with an immersive conversational application.
+
+- Developed an LSTM-based NLP model to analyze questionnaire responses.
+- Integrated the model with Unity; collaborated on real-time tracking, surface detection, and text-to-speech interactions.
+- **1st place** at the XZIBIT National-Level Project Competition.
+- Related research published in the GRENZE International Journal of Engineering and Technology.
+
+### 🌿 Protect While You Farm
+**VGG16 CNN · Django · JavaScript**
+
+A web application that classifies crop leaf diseases from images.
+
+- Developed a VGG16-based classifier with **97% reported classification accuracy across 9 plant disease classes**.
+- Deployed the trained model through a Django and JavaScript application.
+
+### 💊 MediCamet
+**Java · Android · Firebase · Google Maps API**
+
+An Android application that helps users find nearby pharmacies with the medicines they need.
+
+- Built location-based pharmacy discovery and real-time medicine availability features.
+- Implemented dynamic inventory updates for pharmacists.
+
+### 🌾 [Global Wheat Detection](https://github.com/Vinayak56/Global-Wheat-Detection-Using-YOLOv5)
+**Python · YOLOv5 · Computer vision · Google Colab**
+
+An object-detection project that locates wheat heads in field images using bounding boxes, based on the Kaggle Global Wheat Detection challenge.
+
+## Tools I work with
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java, JavaScript, C++, SQL, HTML, CSS |
+| **Backend & software engineering** | Node.js, Django, REST APIs, microservices, object-oriented programming, data structures & algorithms |
+| **AWS** | EC2, S3, IAM, ECS, CloudFront, Route 53, AWS CDK, CloudFormation |
+| **DevOps & infrastructure** | Docker, GitLab CI/CD, Git, Linux, Bash, YAML, ELK Stack |
+| **AI & applications** | NLP, LSTM, VGG16 CNN, YOLOv5, Unity, Firebase, Android |
+
+## Research & education
+
+**“Augmented Humanoid Counselor for Mental Health using LSTM Neural Network”**  
+GRENZE International Journal of Engineering and Technology · Vol. 10, Issue 1 · November 2024
+
+**University of Southern California**  
+MS, Computer Science · 2026–2028 (expected)
+
+**University of Mumbai**  
+BE, Computer Engineering · 2019–2023 · GPA: **9.4**
+
+---
+
+Interested in backend systems, cloud engineering, developer productivity, or applied AI? [Let's connect](https://www.linkedin.com/in/vinayakunde/).
